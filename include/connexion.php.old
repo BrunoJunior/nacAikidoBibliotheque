@@ -1,0 +1,5 @@
+<?php
+	$hote = 'db508474965.db.1and1.com';
+	$base = 'db508474965';
+	$user = 'dbo508474965';
+	$pass = '4C7501796C79*';
